@@ -1,0 +1,47 @@
+[
+    {
+        "Cisnienie": "Ciśnienie",
+        "ID_Eksperymentu": "ID_Eksperymentu",
+        "Projekt": "Projekt",
+        "Prowadzacy": "Prowadzący",
+        "Rezultat": "Rezultat",
+        "Temperatura": "Temperatura",
+        "Wiatr": "Wiatr"
+    },
+    {
+        "Cisnienie": "981",
+        "ID_Eksperymentu": "1",
+        "Projekt": "\"Natura\"",
+        "Prowadzacy": "\"Jan Nowak\"",
+        "Rezultat": "OK",
+        "Temperatura": "23",
+        "Wiatr": "12"
+    },
+    {
+        "Cisnienie": "1024",
+        "ID_Eksperymentu": "2",
+        "Projekt": "\"Ewatus\"",
+        "Prowadzacy": "\"Tomasz Kowalski\"",
+        "Rezultat": "BŁĄD",
+        "Temperatura": "14",
+        "Wiatr": "2"
+    },
+    {
+        "Cisnienie": "1000",
+        "ID_Eksperymentu": "3",
+        "Projekt": "\"Świder\"",
+        "Prowadzacy": "\"Hieronim Komorowski\"",
+        "Rezultat": "OK",
+        "Temperatura": "15",
+        "Wiatr": "0"
+    },
+    {
+        "Cisnienie": "985",
+        "ID_Eksperymentu": "4",
+        "Projekt": "\"Natura\"",
+        "Prowadzacy": "\"Ada Nowakowska\"",
+        "Rezultat": "OK",
+        "Temperatura": "22.5",
+        "Wiatr": "5"
+    }
+]

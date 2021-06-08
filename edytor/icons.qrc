@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pw_lab5_ikony/lab1/copy.png</file>
+        <file>pw_lab5_ikony/lab1/cut.png</file>
+        <file>pw_lab5_ikony/lab1/new.png</file>
+        <file>pw_lab5_ikony/lab1/open.png</file>
+        <file>pw_lab5_ikony/lab1/paste.png</file>
+        <file>pw_lab5_ikony/lab1/save.png</file>
+    </qresource>
+</RCC>
